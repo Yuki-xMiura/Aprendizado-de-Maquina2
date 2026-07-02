@@ -1,0 +1,17 @@
+
+
+
+0 - Abertura e apresentação 
+
+1 - Apresentação Notebook    
+    Apresentar links para as libs:
+        * Numpy
+        	https://numpy.org/
+        * Pandas
+        	https://pandas.pydata.org/
+        * Matplotlib
+        	https://matplotlib.org/
+        * Graphviz
+        	https://graphviz.org/download/
+
+3 - Encerramento
